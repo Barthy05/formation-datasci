@@ -1,0 +1,25 @@
+{
+    "entreprise": "DataStartup Cameroun",
+    "ville": "Douala",
+    "fondateur": {
+        "nom": "Barthelemy",
+        "role": "Data Scientist",
+        "competences": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "ML"
+        ]
+    },
+    "stats": [
+        {
+            "nombre_transaction": 50
+        },
+        {
+            "montant_total": 13034592
+        },
+        {
+            "montant_moyen": 260691.84
+        }
+    ]
+}

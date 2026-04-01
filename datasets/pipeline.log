@@ -1,0 +1,64 @@
+2026-04-01 05:00:27,651 - INFO - Démarrage du pipeline — fichier : datasets/clients.csv
+2026-04-01 05:04:07,107 - INFO - Démarrage du pipeline — fichier : datasets/clients.csv
+2026-04-01 05:04:07,114 - INFO - [OK] Lecture réussie — 20 lignes, 5 colonnes
+2026-04-01 05:04:07,119 - INFO - [OK] Nettoyage — 0 valeurs manquantes supprimées
+2026-04-01 05:04:07,125 - INFO - [OK] Normalisation du montant effectuée
+2026-04-01 05:04:07,132 - INFO - [OK] Pipeline terminé — fichier sauvegardé : datasets/clients_propre.csv
+2026-04-01 06:54:04,255 - ERROR - No such comm target registered: jupyter.widget.control
+2026-04-01 06:54:04,270 - WARNING - No such comm: ca203311-ffad-4871-a558-f315a6937e4c
+2026-04-01 09:03:49,503 - ERROR - No such comm target registered: jupyter.widget.control
+2026-04-01 09:03:49,531 - WARNING - No such comm: 20530dda-6dd8-4816-87b5-0bf577dc9935
+2026-04-01 10:48:53,140 - ERROR - No such comm target registered: jupyter.widget.control
+2026-04-01 10:48:53,149 - WARNING - No such comm: 4990a0fd-19f8-4e8a-99d9-fa6f07be5066
+2026-04-01 11:57:00,531 - INFO - [OK] Nettoyage — 0 valeurs manquantes supprimées
+2026-04-01 11:58:22,936 - INFO - [OK] Nettoyage — 0 valeurs manquantes supprimées
+2026-04-01 11:58:22,944 - INFO - [OK] Nettoyage — None doublons supprimés
+2026-04-01 12:09:31,073 - INFO - [OK] Nettoyage — 0 valeurs manquantes supprimées
+2026-04-01 12:09:31,080 - INFO - [OK] Nettoyage — None doublons supprimés
+2026-04-01 12:11:44,385 - INFO - [OK] Nettoyage — 0 valeurs manquantes supprimées
+2026-04-01 12:11:44,401 - INFO - [OK] Nettoyage — None doublons supprimés
+2026-04-01 12:31:40,231 - INFO - Démarrage du pipeline — fichier : datasets/banque.csv
+2026-04-01 12:31:40,250 - INFO - [OK] Lecture réussie — 50 lignes, 6 colonnes
+2026-04-01 12:31:40,269 - INFO - [OK] Nettoyage — None doublons supprimés
+2026-04-01 12:31:40,275 - INFO - [OK] Nettoyage — 0 valeurs manquantes supprimées
+2026-04-01 12:31:40,304 - INFO - [OK] Pipeline terminé — fichier sauvegardé : datasets/banque_propre.csv
+2026-04-01 12:53:12,902 - INFO - Démarrage du pipeline — fichier : datasets/banque.csv
+2026-04-01 12:53:12,921 - INFO - [OK] Lecture réussie — 50 lignes, 6 colonnes
+2026-04-01 12:53:12,934 - INFO - [OK] Nettoyage — None doublons supprimés
+2026-04-01 12:53:12,935 - INFO - [OK] Nettoyage — 0 valeurs manquantes supprimées
+2026-04-01 12:53:12,955 - INFO - [OK] Pipeline terminé — fichier sauvegardé : datasets/banque_propre.csv
+2026-04-01 12:54:45,288 - INFO - Démarrage du pipeline — fichier : datasets/banque.csv
+2026-04-01 12:54:45,296 - INFO - [OK] Lecture réussie — 50 lignes, 6 colonnes
+2026-04-01 12:54:45,307 - INFO - [OK] Nettoyage — None doublons supprimés
+2026-04-01 12:54:45,307 - INFO - [OK] Nettoyage — 0 valeurs manquantes supprimées
+2026-04-01 12:54:45,322 - INFO - [OK] Pipeline terminé — fichier sauvegardé : datasets/banque_propre.csv
+2026-04-01 13:01:36,389 - INFO - Démarrage du pipeline — fichier : datasets/banque.csv
+2026-04-01 13:01:36,402 - INFO - [OK] Lecture réussie — 50 lignes, 6 colonnes
+2026-04-01 13:01:36,425 - INFO - [OK] Nettoyage — None doublons supprimés
+2026-04-01 13:01:36,432 - INFO - [OK] Nettoyage — 0 valeurs manquantes supprimées
+2026-04-01 13:01:36,444 - INFO - [OK] Pipeline terminé — fichier sauvegardé : datasets/banque_propre.csv
+2026-04-01 13:03:15,527 - INFO - Démarrage du pipeline — fichier : datasets/banque.csv
+2026-04-01 13:03:15,538 - INFO - [OK] Lecture réussie — 50 lignes, 6 colonnes
+2026-04-01 13:03:15,553 - INFO - [OK] Nettoyage — None doublons supprimés
+2026-04-01 13:03:15,560 - INFO - [OK] Nettoyage — 0 valeurs manquantes supprimées
+2026-04-01 13:03:15,586 - INFO - [OK] Pipeline terminé — fichier sauvegardé : datasets/banque_propre.csv
+2026-04-01 13:06:13,263 - INFO - Démarrage du pipeline — fichier : datasets/banque.csv
+2026-04-01 13:06:13,269 - INFO - [OK] Lecture réussie — 50 lignes, 6 colonnes
+2026-04-01 13:06:13,277 - INFO - [OK] Nettoyage — None doublons supprimés
+2026-04-01 13:06:13,280 - INFO - [OK] Nettoyage — 0 valeurs manquantes supprimées
+2026-04-01 13:06:13,295 - INFO - [OK] Pipeline terminé — fichier sauvegardé : datasets/banque_propre.csv
+2026-04-01 13:18:14,098 - INFO - Démarrage du pipeline — fichier : datasets/banque.csv
+2026-04-01 13:18:14,107 - INFO - [OK] Lecture réussie — 50 lignes, 6 colonnes
+2026-04-01 13:18:14,125 - INFO - [OK] Nettoyage — None doublons supprimés
+2026-04-01 13:18:14,132 - INFO - [OK] Nettoyage — 0 valeurs manquantes supprimées
+2026-04-01 13:18:14,149 - INFO - [OK] Pipeline terminé — fichier sauvegardé : datasets/banque_propre.csv
+2026-04-01 13:28:00,778 - INFO - Démarrage du pipeline — fichier : datasets/banque.csv
+2026-04-01 13:28:00,789 - INFO - [OK] Lecture réussie — 50 lignes, 6 colonnes
+2026-04-01 13:28:00,801 - INFO - [OK] Nettoyage — 0 doublons supprimés
+2026-04-01 13:28:00,818 - INFO - [OK] Colonnes montant_eur et montant_usd ajoutées
+2026-04-01 13:28:00,851 - INFO - [OK] Pipeline terminé — fichier sauvegardé : datasets/banque_propre.csv
+2026-04-01 16:16:31,770 - INFO - Démarrage du pipeline — fichier : datasets/banque.csv
+2026-04-01 16:16:31,777 - INFO - [OK] Lecture réussie — 50 lignes, 6 colonnes
+2026-04-01 16:16:31,786 - INFO - [OK] Nettoyage — 0 doublons supprimés
+2026-04-01 16:16:31,791 - INFO - [OK] Colonnes montant_eur et montant_usd ajoutées
+2026-04-01 16:16:31,806 - INFO - [OK] Pipeline terminé — fichier sauvegardé : datasets/banque_propre.csv

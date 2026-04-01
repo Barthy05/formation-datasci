@@ -1,0 +1,60 @@
+nom,capitale,population,superficie,langue
+Nigeria,Abuja,223800000,923768.0,English
+DR Congo,Kinshasa,112832000,2344858.0,French
+Ethiopia,Addis Ababa,111652998,1104300.0,Amharic
+Egypt,Cairo,107271260,1002450.0,Arabic
+Tanzania,Dodoma,68153004,947303.0,English
+South Africa,Pretoria,63100945,1221037.0,Afrikaans
+Kenya,Nairobi,53330978,580367.0,English
+Sudan,Khartoum,51662000,1886068.0,Arabic
+Algeria,Algiers,47400000,2381741.0,Arabic
+Uganda,Kampala,45905417,241550.0,English
+Morocco,Rabat,36828330,446550.0,Arabic
+Angola,Luanda,36170961,1246700.0,Portuguese
+Mozambique,Maputo,34090466,801590.0,Portuguese
+Ghana,Accra,33742380,238533.0,English
+Madagascar,Antananarivo,31727042,587041.0,French
+Ivory Coast,Yamoussoukro,31719275,322463.0,French
+Cameroon,Yaoundé,29442327,475442.0,English
+Niger,Niamey,26312034,1267000.0,French
+Burkina Faso,Ouagadougou,24070553,272967.0,French
+Mali,Bamako,22395489,1240192.0,French
+Malawi,Lilongwe,20734262,118484.0,English
+Zambia,Lusaka,19693423,752612.0,English
+Somalia,Mogadishu,19655000,637657.0,Arabic
+Chad,N'Djamena,19340757,1284000.0,Arabic
+Senegal,Dakar,18593258,196722.0,French
+Zimbabwe,Harare,17073087,390757.0,Chibarwe
+South Sudan,Juba,15786898,619745.0,English
+Guinea,Conakry,14363931,245857.0,French
+Rwanda,Kigali,14104969,26338.0,English
+Benin,Porto-Novo,13224860,112622.0,French
+Burundi,Gitega,12332788,27834.0,French
+Tunisia,Tunis,11972169,163610.0,Arabic
+Sierra Leone,Freetown,9077691,71740.0,English
+Togo,Lomé,8095498,56785.0,French
+Libya,Tripoli,7459000,1759540.0,Arabic
+Central African Republic,Bangui,6470307,622984.0,French
+Republic of the Congo,Brazzaville,6142180,342000.0,French
+Liberia,Monrovia,5248621,111369.0,English
+Mauritania,Nouakchott,4927532,1030700.0,Arabic
+Eritrea,Asmara,3607000,117600.0,Arabic
+Namibia,Windhoek,3022401,825615.0,Afrikaans
+Gabon,Libreville,2469296,267668.0,French
+Gambia,Banjul,2422712,10689.0,English
+Botswana,Gaborone,2359609,582000.0,English
+Lesotho,Maseru,2116427,30355.0,English
+Guinea-Bissau,Bissau,1781308,36125.0,Portuguese
+Equatorial Guinea,Ciudad de la Paz,1668768,28051.0,French
+Mauritius,Port Louis,1243741,2040.0,English
+Eswatini,Mbabane,1235549,17364.0,English
+Djibouti,Djibouti,1066809,23200.0,Arabic
+Comoros,Moroni,919901,1862.0,Arabic
+Réunion,Saint-Denis,896175,2511.0,French
+Western Sahara,El Aaiún,600904,266000.0,Berber
+Cape Verde,Praia,491233,4033.0,Portuguese
+Mayotte,Mamoudzou,320901,374.0,French
+São Tomé and Príncipe,São Tomé,209607,964.0,Portuguese
+Seychelles,Victoria,122729,452.0,Seychellois Creole
+"Saint Helena, Ascension and Tristan da Cunha",Jamestown,5651,394.0,English
+British Indian Ocean Territory,Diego Garcia,0,60.0,English
