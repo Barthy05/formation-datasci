@@ -1,0 +1,17 @@
+{
+    "date_generation": "2026-04-03 08:35:29",
+    "taux_change": {
+        "EUR": 0.00152,
+        "USD": 0.00176,
+        "date": "2026-04-03"
+    },
+    "statistiques": {
+        "nb_transactions": 200,
+        "ca_total_xaf": 398208901,
+        "ca_total_eur": 605277.6,
+        "montant_moyen": 394155.16,
+        "satisfaction_moyenne": 2.9
+    },
+    "top_ville": "Bamenda",
+    "top_produit": "Laptop"
+}

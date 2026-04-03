@@ -1,0 +1,352 @@
+[
+    {
+        "client_id": 1,
+        "nom": "Client_1",
+        "age": 63,
+        "ville": "Bafoussam",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 2,
+        "nom": "Client_2",
+        "age": 20,
+        "ville": "Bamenda",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 3,
+        "nom": "Client_3",
+        "age": 46,
+        "ville": "Garoua",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 4,
+        "nom": "Client_4",
+        "age": 52,
+        "ville": "Garoua",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 5,
+        "nom": "Client_5",
+        "age": 56,
+        "ville": "Bamenda",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 6,
+        "nom": "Client_6",
+        "age": 35,
+        "ville": "Bamenda",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 7,
+        "nom": "Client_7",
+        "age": 37,
+        "ville": "Garoua",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 8,
+        "nom": "Client_8",
+        "age": 60,
+        "ville": "Bafoussam",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 9,
+        "nom": "Client_9",
+        "age": 40,
+        "ville": "Douala",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 10,
+        "nom": "Client_10",
+        "age": 51,
+        "ville": "Bamenda",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 11,
+        "nom": "Client_11",
+        "age": 50,
+        "ville": "Garoua",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 12,
+        "nom": "Client_12",
+        "age": 27,
+        "ville": "Yaoundé",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 13,
+        "nom": "Client_13",
+        "age": 50,
+        "ville": "Garoua",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 14,
+        "nom": "Client_14",
+        "age": 64,
+        "ville": "Bafoussam",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 15,
+        "nom": "Client_15",
+        "age": 50,
+        "ville": "Yaoundé",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 16,
+        "nom": "Client_16",
+        "age": 43,
+        "ville": "Bafoussam",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 17,
+        "nom": "Client_17",
+        "age": 37,
+        "ville": "Bamenda",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 18,
+        "nom": "Client_18",
+        "age": 32,
+        "ville": "Douala",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 19,
+        "nom": "Client_19",
+        "age": 54,
+        "ville": "Yaoundé",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 20,
+        "nom": "Client_20",
+        "age": 50,
+        "ville": "Bamenda",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 21,
+        "nom": "Client_21",
+        "age": 34,
+        "ville": "Bafoussam",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 22,
+        "nom": "Client_22",
+        "age": 22,
+        "ville": "Yaoundé",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 23,
+        "nom": "Client_23",
+        "age": 21,
+        "ville": "Yaoundé",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 24,
+        "nom": "Client_24",
+        "age": 20,
+        "ville": "Garoua",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 25,
+        "nom": "Client_25",
+        "age": 38,
+        "ville": "Bamenda",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 26,
+        "nom": "Client_26",
+        "age": 57,
+        "ville": "Yaoundé",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 27,
+        "nom": "Client_27",
+        "age": 20,
+        "ville": "Douala",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 28,
+        "nom": "Client_28",
+        "age": 38,
+        "ville": "Douala",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 29,
+        "nom": "Client_29",
+        "age": 25,
+        "ville": "Garoua",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 30,
+        "nom": "Client_30",
+        "age": 59,
+        "ville": "Yaoundé",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 31,
+        "nom": "Client_31",
+        "age": 53,
+        "ville": "Garoua",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 32,
+        "nom": "Client_32",
+        "age": 46,
+        "ville": "Garoua",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 33,
+        "nom": "Client_33",
+        "age": 56,
+        "ville": "Garoua",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 34,
+        "nom": "Client_34",
+        "age": 51,
+        "ville": "Yaoundé",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 35,
+        "nom": "Client_35",
+        "age": 39,
+        "ville": "Yaoundé",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 36,
+        "nom": "Client_36",
+        "age": 48,
+        "ville": "Bafoussam",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 37,
+        "nom": "Client_37",
+        "age": 45,
+        "ville": "Garoua",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 38,
+        "nom": "Client_38",
+        "age": 52,
+        "ville": "Garoua",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 39,
+        "nom": "Client_39",
+        "age": 51,
+        "ville": "Garoua",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 40,
+        "nom": "Client_40",
+        "age": 30,
+        "ville": "Garoua",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 41,
+        "nom": "Client_41",
+        "age": 58,
+        "ville": "Douala",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 42,
+        "nom": "Client_42",
+        "age": 21,
+        "ville": "Yaoundé",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 43,
+        "nom": "Client_43",
+        "age": 60,
+        "ville": "Garoua",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 44,
+        "nom": "Client_44",
+        "age": 23,
+        "ville": "Yaoundé",
+        "segment": "Premium"
+    },
+    {
+        "client_id": 45,
+        "nom": "Client_45",
+        "age": 18,
+        "ville": "Bamenda",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 46,
+        "nom": "Client_46",
+        "age": 29,
+        "ville": "Garoua",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 47,
+        "nom": "Client_47",
+        "age": 52,
+        "ville": "Yaoundé",
+        "segment": "Standard"
+    },
+    {
+        "client_id": 48,
+        "nom": "Client_48",
+        "age": 28,
+        "ville": "Bafoussam",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 49,
+        "nom": "Client_49",
+        "age": 40,
+        "ville": "Garoua",
+        "segment": "VIP"
+    },
+    {
+        "client_id": 50,
+        "nom": "Client_50",
+        "age": 31,
+        "ville": "Bamenda",
+        "segment": "Premium"
+    }
+]

@@ -1,0 +1,201 @@
+transaction_id,client_id,produit,categorie,montant,quantite,ville,date,satisfaction,nom,age,segment,montant_eur,montant_usd,annee,mois,mois_nom,jour_semaine,trimestre,categorie_montant,ca_total,ca_total_eur,score
+1,39,Tablette,Accessoire,182804.0,4,Douala,2025-01-01,2,Client_39,51,Premium,277.86,321.74,2025,1,Jan,Wednesday,1,Moyen,731216.0,1111.45,2.69
+2,29,Laptop,Informatique,710703.0,9,Douala,2025-01-02,2,Client_29,25,Standard,1080.27,1250.84,2025,1,Jan,Thursday,1,Très grand,6396327.0,9722.42,6.18
+3,15,Accessoire,Informatique,44081.0,6,Douala,2025-01-03,3,Client_15,50,Standard,67.0,77.58,2025,1,Jan,Friday,1,Petit,264486.0,402.02,3.17
+4,43,Laptop,Informatique,723216.0,1,Douala,2025-01-04,4,Client_43,60,Standard,1099.29,1272.86,2025,1,Jan,Saturday,1,Très grand,723216.0,1099.29,4.62
+5,8,Laptop,Electronique,360249.0,8,Douala,2025-01-05,4,Client_8,60,VIP,547.58,634.04,2025,1,Jan,Sunday,1,Grand,2881992.0,4380.63,5.36
+6,21,Téléphone,Accessoire,224930.0,7,Yaoundé,2025-01-06,5,Client_21,34,Standard,341.89,395.88,2025,1,Jan,Monday,1,Grand,1574510.0,2393.26,4.95
+7,39,Accessoire,Accessoire,522313.0,3,Bamenda,2025-01-07,5,Client_39,51,Premium,793.92,919.27,2025,1,Jan,Tuesday,1,Très grand,1566939.0,2381.75,4.87
+8,19,Accessoire,Accessoire,219532.0,1,Bafoussam,2025-01-08,1,Client_19,54,VIP,333.69,386.38,2025,1,Jan,Wednesday,1,Grand,219532.0,333.69,1.53
+9,23,Téléphone,Informatique,617380.0,5,Bafoussam,2025-01-09,2,Client_23,21,VIP,938.42,1086.59,2025,1,Jan,Thursday,1,Très grand,3086900.0,4692.09,4.63
+10,11,Tablette,Electronique,524332.0,4,Bafoussam,2025-01-10,3,Client_11,50,Standard,796.98,922.82,2025,1,Jan,Friday,1,Très grand,2097328.0,3187.94,4.38
+11,11,Laptop,Informatique,321837.0,8,Bafoussam,2025-01-11,4,Client_11,50,Standard,489.19,566.43,2025,1,Jan,Saturday,1,Grand,2574696.0,3913.54,5.21
+12,24,Imprimante,Informatique,294106.0,1,Yaoundé,2025-01-12,3,Client_24,20,Premium,447.04,517.63,2025,1,Jan,Sunday,1,Grand,294106.0,447.04,2.61
+13,36,Laptop,Accessoire,33295.0,1,Garoua,2025-01-13,4,Client_36,48,Standard,50.61,58.6,2025,1,Jan,Monday,1,Petit,33295.0,50.61,2.03
+14,40,Laptop,Informatique,18807.0,4,Bamenda,2025-01-14,2,Client_40,30,VIP,28.59,33.1,2025,1,Jan,Tuesday,1,Petit,75228.0,114.35,2.07
+15,24,Tablette,Accessoire,440564.0,8,Douala,2025-01-15,4,Client_24,20,Premium,669.66,775.39,2025,1,Jan,Wednesday,1,Grand,3524512.0,5357.26,5.66
+16,3,Laptop,Electronique,162504.0,5,Garoua,2025-01-16,1,Client_3,46,Premium,247.01,286.01,2025,1,Jan,Thursday,1,Moyen,812520.0,1235.03,2.51
+17,22,Téléphone,Accessoire,243067.0,2,Bafoussam,2025-01-17,2,Client_22,22,Premium,369.46,427.8,2025,1,Jan,Friday,1,Grand,486134.0,738.92,2.32
+18,2,Téléphone,Electronique,490008.0,6,Garoua,2025-01-18,3,Client_2,20,Standard,744.81,862.41,2025,1,Jan,Saturday,1,Grand,2940048.0,4468.87,4.85
+19,24,Accessoire,Accessoire,697440.0,5,Bamenda,2025-01-19,1,Client_24,20,Premium,1060.11,1227.49,2025,1,Jan,Sunday,1,Très grand,3487200.0,5300.54,4.53
+20,44,Imprimante,Informatique,399540.0,2,Douala,2025-01-20,2,Client_44,23,Premium,607.3,703.19,2025,1,Jan,Monday,1,Grand,799080.0,1214.6,2.91
+21,30,Laptop,Informatique,522923.0,3,Douala,2025-01-21,3,Client_30,59,Premium,794.84,920.34,2025,1,Jan,Tuesday,1,Très grand,1568769.0,2384.53,4.07
+22,38,Laptop,Electronique,171981.0,9,Bamenda,2025-01-22,1,Client_38,52,Premium,261.41,302.69,2025,1,Jan,Wednesday,1,Moyen,1547829.0,2352.7,3.75
+23,2,Tablette,Electronique,749699.0,7,Bamenda,2025-01-23,1,Client_2,20,Standard,1139.54,1319.47,2025,1,Jan,Thursday,1,Très grand,5247893.0,7976.8,5.32
+24,21,Téléphone,Electronique,24870.0,7,Bafoussam,2025-01-24,2,Client_21,34,Standard,37.8,43.77,2025,1,Jan,Friday,1,Petit,174090.0,264.62,2.99
+25,33,Imprimante,Accessoire,208196.0,6,Douala,2025-01-25,5,Client_33,56,Premium,316.46,366.42,2025,1,Jan,Saturday,1,Grand,1249176.0,1898.75,4.58
+26,12,Accessoire,Accessoire,253683.0,8,Garoua,2025-01-26,1,Client_12,27,Standard,385.6,446.48,2025,1,Jan,Sunday,1,Grand,2029464.0,3084.79,3.76
+27,22,Téléphone,Electronique,239677.0,4,Yaoundé,2025-01-27,1,Client_22,22,Premium,364.31,421.83,2025,1,Jan,Monday,1,Grand,958708.0,1457.24,2.5
+28,44,Accessoire,Informatique,31790.0,8,Yaoundé,2025-01-28,3,Client_44,23,Premium,48.32,55.95,2025,1,Jan,Tuesday,1,Petit,254320.0,386.57,3.72
+29,25,Tablette,Accessoire,648162.0,4,Bamenda,2025-01-29,4,Client_25,38,Premium,985.21,1140.77,2025,1,Jan,Wednesday,1,Très grand,2592648.0,3940.82,5.24
+30,49,Tablette,Accessoire,453345.0,8,Bafoussam,2025-01-30,2,Client_49,40,VIP,689.08,797.89,2025,1,Jan,Thursday,1,Grand,3626760.0,5512.68,4.91
+31,27,Laptop,Accessoire,754074.0,9,Yaoundé,2025-01-31,2,Client_27,20,Premium,1146.19,1327.17,2025,1,Jan,Friday,1,Très grand,6786666.0,10315.73,6.34
+32,42,Imprimante,Electronique,492462.0,3,Douala,2025-02-01,5,Client_42,21,Standard,748.54,866.73,2025,2,Feb,Saturday,1,Grand,1477386.0,2245.63,4.76
+33,28,Accessoire,Electronique,544773.0,3,Bamenda,2025-02-02,5,Client_28,38,VIP,828.05,958.8,2025,2,Feb,Sunday,1,Très grand,1634319.0,2484.16,4.95
+34,16,Téléphone,Electronique,91188.0,2,Garoua,2025-02-03,2,Client_16,43,Premium,138.61,160.49,2025,2,Feb,Monday,1,Moyen,182376.0,277.21,1.74
+35,15,Tablette,Electronique,534036.0,3,Bamenda,2025-02-04,5,Client_15,50,Standard,811.73,939.9,2025,2,Feb,Tuesday,1,Très grand,1602108.0,2435.2,4.91
+36,47,Laptop,Electronique,747129.0,3,Garoua,2025-02-05,3,Client_47,52,Standard,1135.64,1314.95,2025,2,Feb,Wednesday,1,Très grand,2241387.0,3406.91,4.91
+37,44,Laptop,Informatique,669795.0,5,Bamenda,2025-02-06,2,Client_44,23,Premium,1018.09,1178.84,2025,2,Feb,Thursday,1,Très grand,3348975.0,5090.44,4.82
+38,3,Accessoire,Informatique,795141.0,5,Bamenda,2025-02-07,5,Client_3,46,Premium,1208.61,1399.45,2025,2,Feb,Friday,1,Très grand,3975705.0,6043.07,6.5
+39,37,Tablette,Electronique,653249.0,2,Bamenda,2025-02-08,2,Client_37,45,Premium,992.94,1149.72,2025,2,Feb,Saturday,1,Très grand,1306498.0,1985.88,3.86
+40,7,Imprimante,Accessoire,35355.0,6,Garoua,2025-02-09,4,Client_7,37,VIP,53.74,62.22,2025,2,Feb,Sunday,1,Petit,212130.0,322.44,3.53
+41,21,Tablette,Electronique,716131.0,5,Garoua,2025-02-10,1,Client_21,34,Standard,1088.52,1260.39,2025,2,Feb,Monday,1,Très grand,3580655.0,5442.6,4.6
+42,9,Accessoire,Informatique,456015.0,6,Bamenda,2025-02-11,2,Client_9,40,Premium,693.14,802.59,2025,2,Feb,Tuesday,1,Grand,2736090.0,4158.86,4.32
+43,39,Accessoire,Informatique,411332.0,1,Yaoundé,2025-02-12,1,Client_39,51,Premium,625.22,723.94,2025,2,Feb,Wednesday,1,Grand,411332.0,625.22,2.25
+44,18,Tablette,Accessoire,161542.0,5,Bafoussam,2025-02-13,5,Client_18,32,Standard,245.54,284.31,2025,2,Feb,Thursday,1,Moyen,807710.0,1227.72,4.11
+45,4,Accessoire,Informatique,178416.0,9,Bafoussam,2025-02-14,1,Client_4,52,Standard,271.19,314.01,2025,2,Feb,Friday,1,Moyen,1605744.0,2440.73,3.77
+46,25,Tablette,Electronique,310062.0,2,Bafoussam,2025-02-15,2,Client_25,38,Premium,471.29,545.71,2025,2,Feb,Saturday,1,Grand,620124.0,942.59,2.57
+47,14,Téléphone,Accessoire,568586.0,1,Garoua,2025-02-16,4,Client_14,64,Standard,864.25,1000.71,2025,2,Feb,Sunday,1,Très grand,568586.0,864.25,4.04
+48,50,Tablette,Electronique,506708.0,9,Garoua,2025-02-17,5,Client_50,31,Premium,770.2,891.81,2025,2,Feb,Monday,1,Très grand,4560372.0,6931.77,6.61
+49,9,Tablette,Electronique,66629.0,9,Yaoundé,2025-02-18,2,Client_9,40,Premium,101.28,117.27,2025,2,Feb,Tuesday,1,Moyen,599661.0,911.48,3.75
+50,26,Accessoire,Accessoire,333184.0,9,Bafoussam,2025-02-19,5,Client_26,57,VIP,506.44,586.4,2025,2,Feb,Wednesday,1,Grand,2998656.0,4557.96,5.96
+51,2,Accessoire,Electronique,497734.0,6,Bafoussam,2025-02-20,3,Client_2,20,Standard,756.56,876.01,2025,2,Feb,Thursday,1,Grand,2986404.0,4539.33,4.88
+52,20,Laptop,Informatique,760195.0,8,Bamenda,2025-02-21,1,Client_20,50,Premium,1155.5,1337.94,2025,2,Feb,Friday,1,Très grand,6081560.0,9243.97,5.66
+53,28,Laptop,Electronique,295160.0,1,Garoua,2025-02-22,3,Client_28,38,VIP,448.64,519.48,2025,2,Feb,Saturday,1,Grand,295160.0,448.64,2.61
+54,47,Téléphone,Accessoire,553248.0,4,Bafoussam,2025-02-23,2,Client_47,52,Standard,840.94,973.72,2025,2,Feb,Sunday,1,Très grand,2212992.0,3363.75,4.08
+55,7,Laptop,Accessoire,218920.0,1,Yaoundé,2025-02-24,4,Client_7,37,VIP,332.76,385.3,2025,2,Feb,Monday,1,Grand,218920.0,332.76,2.72
+56,44,Tablette,Accessoire,247804.0,8,Yaoundé,2025-02-25,5,Client_44,23,Premium,376.66,436.14,2025,2,Feb,Tuesday,1,Grand,1982432.0,3013.3,5.33
+57,8,Accessoire,Electronique,381965.0,1,Bafoussam,2025-02-26,1,Client_8,60,VIP,580.59,672.26,2025,2,Feb,Wednesday,1,Grand,381965.0,580.59,2.14
+58,47,Laptop,Accessoire,465857.0,3,Garoua,2025-02-27,5,Client_47,52,Standard,708.1,819.91,2025,2,Feb,Thursday,1,Grand,1397571.0,2124.31,4.66
+59,35,Laptop,Accessoire,509492.0,4,Yaoundé,2025-02-28,2,Client_35,39,Premium,774.43,896.71,2025,2,Feb,Friday,1,Très grand,2037968.0,3097.71,3.92
+60,14,Téléphone,Electronique,658983.0,8,Bamenda,2025-03-01,5,Client_14,64,Standard,1001.65,1159.81,2025,3,Mar,Saturday,1,Très grand,5271864.0,8013.23,6.88
+61,17,Téléphone,Informatique,420916.0,6,Yaoundé,2025-03-02,1,Client_17,37,VIP,639.79,740.81,2025,3,Mar,Sunday,1,Grand,2525496.0,3838.75,3.79
+62,36,Tablette,Electronique,763574.0,7,Douala,2025-03-03,2,Client_36,48,Standard,1160.63,1343.89,2025,3,Mar,Monday,1,Très grand,5345018.0,8124.43,5.78
+63,50,Accessoire,Accessoire,133148.0,8,Douala,2025-03-04,5,Client_50,31,Premium,202.38,234.34,2025,3,Mar,Tuesday,1,Moyen,1065184.0,1619.08,4.9
+64,40,Téléphone,Accessoire,491261.0,2,Garoua,2025-03-05,4,Client_40,30,VIP,746.72,864.62,2025,3,Mar,Wednesday,1,Grand,982522.0,1493.43,4.05
+65,4,Laptop,Electronique,360540.0,8,Bafoussam,2025-03-06,3,Client_4,52,Standard,548.02,634.55,2025,3,Mar,Thursday,1,Grand,2884320.0,4384.17,4.96
+66,2,Accessoire,Informatique,197714.0,3,Garoua,2025-03-07,2,Client_2,20,Standard,300.53,347.98,2025,3,Mar,Friday,1,Moyen,593142.0,901.58,2.44
+67,6,Accessoire,Accessoire,736899.0,7,Garoua,2025-03-08,4,Client_6,35,Standard,1120.09,1296.94,2025,3,Mar,Saturday,1,Très grand,5158293.0,7840.61,6.48
+68,42,Laptop,Accessoire,388934.0,3,Garoua,2025-03-09,3,Client_42,21,Standard,591.18,684.52,2025,3,Mar,Sunday,1,Grand,1166802.0,1773.54,3.57
+69,4,Téléphone,Accessoire,264747.0,7,Garoua,2025-03-10,1,Client_4,52,Standard,402.42,465.95,2025,3,Mar,Monday,1,Grand,1853229.0,2816.91,3.5
+70,29,Laptop,Electronique,620650.0,2,Bamenda,2025-03-11,3,Client_29,25,Standard,943.39,1092.34,2025,3,Mar,Tuesday,1,Très grand,1241300.0,1886.78,4.14
+71,18,Accessoire,Accessoire,428570.0,6,Bamenda,2025-03-12,5,Client_18,32,Standard,651.43,754.28,2025,3,Mar,Wednesday,1,Grand,2571420.0,3908.56,5.41
+72,26,Imprimante,Informatique,280987.0,3,Yaoundé,2025-03-13,4,Client_26,57,VIP,427.1,494.54,2025,3,Mar,Thursday,1,Grand,842961.0,1281.3,3.56
+73,44,Imprimante,Accessoire,643353.0,3,Douala,2025-03-14,3,Client_44,23,Premium,977.9,1132.3,2025,3,Mar,Friday,1,Très grand,1930059.0,2933.69,4.52
+74,34,Tablette,Accessoire,22640.0,9,Garoua,2025-03-15,2,Client_34,51,Premium,34.41,39.85,2025,3,Mar,Saturday,1,Petit,203760.0,309.72,3.59
+75,10,Laptop,Informatique,57528.0,7,Yaoundé,2025-03-16,5,Client_10,51,Standard,87.44,101.25,2025,3,Mar,Sunday,1,Moyen,402696.0,612.1,4.32
+76,36,Laptop,Accessoire,264214.0,5,Douala,2025-03-17,5,Client_36,48,Standard,401.61,465.02,2025,3,Mar,Monday,1,Grand,1321070.0,2008.03,4.5
+77,14,Tablette,Electronique,506108.0,7,Bafoussam,2025-03-18,3,Client_14,64,Standard,769.28,890.75,2025,3,Mar,Tuesday,1,Très grand,3542756.0,5384.99,5.21
+78,31,Tablette,Electronique,639421.0,9,Bamenda,2025-03-19,3,Client_31,53,Premium,971.92,1125.38,2025,3,Mar,Wednesday,1,Très grand,5754789.0,8747.28,6.31
+79,48,Tablette,Electronique,373501.0,1,Douala,2025-03-20,4,Client_48,28,VIP,567.72,657.36,2025,3,Mar,Thursday,1,Grand,373501.0,567.72,3.31
+80,15,Accessoire,Informatique,729226.0,7,Bafoussam,2025-03-21,1,Client_15,50,Standard,1108.42,1283.44,2025,3,Mar,Friday,1,Très grand,5104582.0,7758.96,5.25
+81,8,Laptop,Accessoire,155159.0,6,Douala,2025-03-22,3,Client_8,60,VIP,235.84,273.08,2025,3,Mar,Saturday,1,Moyen,930954.0,1415.05,3.58
+82,14,Accessoire,Electronique,177502.0,9,Bamenda,2025-03-23,3,Client_14,64,Standard,269.8,312.4,2025,3,Mar,Sunday,1,Moyen,1597518.0,2428.23,4.57
+83,23,Tablette,Informatique,160576.0,1,Bamenda,2025-03-24,2,Client_23,21,VIP,244.08,282.61,2025,3,Mar,Monday,1,Moyen,160576.0,244.08,1.7
+84,40,Laptop,Accessoire,16023.0,4,Yaoundé,2025-03-25,3,Client_40,30,VIP,24.35,28.2,2025,3,Mar,Tuesday,1,Petit,64092.0,97.42,2.46
+85,21,Accessoire,Informatique,550735.0,9,Garoua,2025-03-26,1,Client_21,34,Standard,837.12,969.29,2025,3,Mar,Wednesday,1,Très grand,4956615.0,7534.05,5.17
+86,16,Accessoire,Electronique,393043.0,4,Douala,2025-03-27,2,Client_16,43,Premium,597.43,691.76,2025,3,Mar,Thursday,1,Grand,1572172.0,2389.7,3.48
+87,45,Tablette,Electronique,291103.0,3,Douala,2025-03-28,4,Client_45,18,VIP,442.48,512.34,2025,3,Mar,Friday,1,Grand,873309.0,1327.43,3.6
+88,18,Laptop,Electronique,71203.0,9,Bafoussam,2025-03-29,4,Client_18,32,Standard,108.23,125.32,2025,3,Mar,Saturday,1,Moyen,640827.0,974.06,4.57
+89,47,Tablette,Informatique,165775.0,2,Bamenda,2025-03-30,3,Client_47,52,Standard,251.98,291.76,2025,3,Mar,Sunday,1,Moyen,331550.0,503.96,2.42
+90,24,Laptop,Informatique,14337.0,4,Douala,2025-03-31,3,Client_24,20,Premium,21.79,25.23,2025,3,Mar,Monday,1,Petit,57348.0,87.17,2.45
+91,26,Imprimante,Electronique,575715.0,6,Bamenda,2025-04-01,4,Client_26,57,VIP,875.09,1013.26,2025,4,Apr,Tuesday,2,Très grand,3454290.0,5250.52,5.57
+92,25,Téléphone,Informatique,519723.0,2,Douala,2025-04-02,3,Client_25,38,Premium,789.98,914.71,2025,4,Apr,Wednesday,2,Très grand,1039446.0,1579.96,3.76
+93,45,Téléphone,Electronique,328673.0,8,Yaoundé,2025-04-03,1,Client_45,18,VIP,499.58,578.46,2025,4,Apr,Thursday,2,Grand,2629384.0,3996.66,4.04
+94,41,Téléphone,Electronique,369167.0,8,Garoua,2025-04-04,3,Client_41,58,VIP,561.13,649.73,2025,4,Apr,Friday,2,Grand,2953336.0,4489.07,4.99
+95,29,Tablette,Accessoire,351809.0,1,Douala,2025-04-05,5,Client_29,25,Standard,534.75,619.18,2025,4,Apr,Saturday,2,Grand,351809.0,534.75,3.63
+96,15,Imprimante,Informatique,635075.0,3,Bamenda,2025-04-06,3,Client_15,50,Standard,965.31,1117.73,2025,4,Apr,Sunday,2,Très grand,1905225.0,2895.94,4.49
+97,45,Laptop,Electronique,692281.0,9,Yaoundé,2025-04-07,2,Client_45,18,VIP,1052.27,1218.41,2025,4,Apr,Monday,2,Très grand,6230529.0,9470.4,6.11
+98,1,Accessoire,Electronique,300451.0,5,Douala,2025-04-08,1,Client_1,63,Standard,456.69,528.79,2025,4,Apr,Tuesday,2,Grand,1502255.0,2283.43,3.03
+99,25,Laptop,Informatique,425571.0,6,Bafoussam,2025-04-09,2,Client_25,38,Premium,646.87,749.0,2025,4,Apr,Wednesday,2,Grand,2553426.0,3881.21,4.2
+100,7,Accessoire,Accessoire,132016.0,4,Garoua,2025-04-10,2,Client_7,37,VIP,200.66,232.35,2025,4,Apr,Thursday,2,Moyen,528064.0,802.66,2.5
+101,9,Laptop,Accessoire,796267.0,2,Douala,2025-04-11,5,Client_9,40,Premium,1210.33,1401.43,2025,4,Apr,Friday,2,Très grand,1592534.0,2420.65,5.6
+102,24,Imprimante,Electronique,549447.0,8,Yaoundé,2025-04-12,1,Client_24,20,Premium,835.16,967.03,2025,4,Apr,Saturday,2,Très grand,4395576.0,6681.28,4.87
+103,1,Accessoire,Informatique,502562.0,6,Bafoussam,2025-04-13,3,Client_1,63,Standard,763.89,884.51,2025,4,Apr,Sunday,2,Très grand,3015372.0,4583.37,4.89
+104,44,Tablette,Accessoire,707965.0,5,Yaoundé,2025-04-14,1,Client_44,23,Premium,1076.11,1246.02,2025,4,Apr,Monday,2,Très grand,3539825.0,5380.53,4.57
+105,8,Laptop,Informatique,388934.0,9,Yaoundé,2025-04-15,1,Client_8,60,VIP,591.18,684.52,2025,4,Apr,Tuesday,2,Grand,3500406.0,5320.62,4.57
+106,24,Laptop,Informatique,322428.0,1,Bafoussam,2025-04-16,1,Client_24,20,Premium,490.09,567.47,2025,4,Apr,Wednesday,2,Grand,322428.0,490.09,1.91
+107,11,Accessoire,Electronique,324187.0,5,Yaoundé,2025-04-17,5,Client_11,50,Standard,492.76,570.57,2025,4,Apr,Thursday,2,Grand,1620935.0,2463.82,4.72
+108,17,Tablette,Accessoire,695907.0,6,Bafoussam,2025-04-18,3,Client_17,37,VIP,1057.78,1224.8,2025,4,Apr,Friday,2,Très grand,4175442.0,6346.67,5.62
+109,8,Tablette,Electronique,87844.0,5,Douala,2025-04-19,2,Client_8,60,VIP,133.52,154.61,2025,4,Apr,Saturday,2,Moyen,439220.0,667.61,2.63
+110,35,Imprimante,Accessoire,556820.0,6,Bafoussam,2025-04-20,1,Client_35,39,Premium,846.37,980.0,2025,4,Apr,Sunday,2,Très grand,3340920.0,5078.2,4.3
+111,35,Tablette,Accessoire,170421.0,6,Bafoussam,2025-04-21,3,Client_35,39,Premium,259.04,299.94,2025,4,Apr,Monday,2,Moyen,1022526.0,1554.24,3.64
+112,33,Tablette,Accessoire,127402.0,7,Garoua,2025-04-22,3,Client_33,56,Premium,193.65,224.23,2025,4,Apr,Tuesday,2,Moyen,891814.0,1355.56,3.78
+113,5,Tablette,Accessoire,123012.0,4,Bafoussam,2025-04-23,2,Client_5,56,Premium,186.98,216.5,2025,4,Apr,Wednesday,2,Moyen,492048.0,747.91,2.46
+114,42,Téléphone,Accessoire,443661.0,8,Bafoussam,2025-04-24,5,Client_42,21,Standard,674.36,780.84,2025,4,Apr,Thursday,2,Grand,3549288.0,5394.92,6.07
+115,39,Imprimante,Informatique,403929.0,7,Douala,2025-04-25,4,Client_39,51,Premium,613.97,710.92,2025,4,Apr,Friday,2,Grand,2827503.0,4297.8,5.22
+116,41,Laptop,Electronique,585466.0,9,Garoua,2025-04-26,4,Client_41,58,VIP,889.91,1030.42,2025,4,Apr,Saturday,2,Très grand,5269194.0,8009.17,6.51
+117,28,Accessoire,Informatique,578695.0,7,Bamenda,2025-04-27,3,Client_28,38,VIP,879.62,1018.5,2025,4,Apr,Sunday,2,Très grand,4050865.0,6157.31,5.48
+118,7,Laptop,Accessoire,468556.0,3,Douala,2025-04-28,2,Client_7,37,VIP,712.21,824.66,2025,4,Apr,Monday,2,Grand,1405668.0,2136.62,3.47
+119,9,Imprimante,Electronique,580278.0,3,Douala,2025-04-29,4,Client_9,40,Premium,882.02,1021.29,2025,4,Apr,Tuesday,2,Très grand,1740834.0,2646.07,4.69
+120,8,Accessoire,Accessoire,388934.0,8,Bamenda,2025-04-30,3,Client_8,60,VIP,591.18,684.52,2025,4,Apr,Wednesday,2,Grand,3111472.0,4729.44,5.07
+121,12,Imprimante,Electronique,483007.0,5,Bafoussam,2025-05-01,3,Client_12,27,Standard,734.17,850.09,2025,5,May,Thursday,2,Grand,2415035.0,3670.85,4.52
+122,34,Tablette,Informatique,422009.0,4,Yaoundé,2025-05-02,4,Client_34,51,Premium,641.45,742.74,2025,5,May,Friday,2,Grand,1688036.0,2565.81,4.39
+123,33,Accessoire,Electronique,323714.0,8,Garoua,2025-05-03,3,Client_33,56,Premium,492.05,569.74,2025,5,May,Saturday,2,Grand,2589712.0,3936.36,4.82
+124,48,Tablette,Electronique,231156.0,6,Yaoundé,2025-05-04,3,Client_48,28,VIP,351.36,406.83,2025,5,May,Sunday,2,Grand,1386936.0,2108.14,3.87
+125,23,Laptop,Electronique,173964.0,2,Bamenda,2025-05-05,1,Client_23,21,VIP,264.43,306.18,2025,5,May,Monday,2,Moyen,347928.0,528.85,1.66
+126,24,Laptop,Electronique,530303.0,4,Douala,2025-05-06,5,Client_24,20,Premium,806.06,933.33,2025,5,May,Tuesday,2,Très grand,2121212.0,3224.24,5.2
+127,37,Accessoire,Electronique,66813.0,4,Douala,2025-05-07,1,Client_37,45,Premium,101.56,117.59,2025,5,May,Wednesday,2,Moyen,267252.0,406.22,1.85
+128,35,Accessoire,Accessoire,32712.0,6,Garoua,2025-05-08,2,Client_35,39,Premium,49.72,57.57,2025,5,May,Thursday,2,Petit,196272.0,298.33,2.72
+129,44,Imprimante,Electronique,629785.0,6,Douala,2025-05-09,1,Client_44,23,Premium,957.27,1108.42,2025,5,May,Friday,2,Très grand,3778710.0,5743.64,4.57
+130,40,Imprimante,Electronique,772214.0,1,Douala,2025-05-10,1,Client_40,30,VIP,1173.77,1359.1,2025,5,May,Saturday,2,Très grand,772214.0,1173.77,3.61
+131,22,Tablette,Informatique,117816.0,8,Garoua,2025-05-11,4,Client_22,22,Premium,179.08,207.36,2025,5,May,Sunday,2,Moyen,942528.0,1432.64,4.44
+132,27,Accessoire,Electronique,133778.0,6,Garoua,2025-05-12,3,Client_27,20,Premium,203.34,235.45,2025,5,May,Monday,2,Moyen,802668.0,1220.06,3.5
+133,35,Laptop,Informatique,591580.0,3,Bamenda,2025-05-13,3,Client_35,39,Premium,899.2,1041.18,2025,5,May,Tuesday,2,Très grand,1774740.0,2697.6,4.33
+134,1,Imprimante,Accessoire,290977.0,9,Douala,2025-05-14,1,Client_1,63,Standard,442.29,512.12,2025,5,May,Wednesday,2,Grand,2618793.0,3980.57,4.2
+135,35,Imprimante,Electronique,140230.0,2,Douala,2025-05-15,5,Client_35,39,Premium,213.15,246.8,2025,5,May,Thursday,2,Moyen,280460.0,426.3,3.13
+136,37,Laptop,Informatique,723040.0,8,Bamenda,2025-05-16,1,Client_37,45,Premium,1099.02,1272.55,2025,5,May,Friday,2,Très grand,5784320.0,8792.17,5.52
+137,47,Imprimante,Informatique,274114.0,3,Bafoussam,2025-05-17,2,Client_47,52,Standard,416.65,482.44,2025,5,May,Saturday,2,Grand,822342.0,1249.96,2.73
+138,14,Tablette,Accessoire,339618.0,5,Bafoussam,2025-05-18,1,Client_14,64,Standard,516.22,597.73,2025,5,May,Sunday,2,Grand,1698090.0,2581.1,3.18
+139,3,Accessoire,Electronique,156456.0,6,Bafoussam,2025-05-19,4,Client_3,46,Premium,237.81,275.36,2025,5,May,Monday,2,Moyen,938736.0,1426.88,3.99
+140,1,Laptop,Electronique,110570.0,6,Bamenda,2025-05-20,3,Client_1,63,Standard,168.07,194.6,2025,5,May,Tuesday,2,Moyen,663420.0,1008.4,3.42
+141,5,Accessoire,Informatique,275846.0,4,Douala,2025-05-21,2,Client_5,56,Premium,419.29,485.49,2025,5,May,Wednesday,2,Grand,1103384.0,1677.14,3.04
+142,26,Imprimante,Electronique,388934.0,3,Bamenda,2025-05-22,1,Client_26,57,VIP,591.18,684.52,2025,5,May,Thursday,2,Grand,1166802.0,1773.54,2.77
+143,14,Imprimante,Informatique,708286.0,4,Bamenda,2025-05-23,5,Client_14,64,Standard,1076.59,1246.58,2025,5,May,Friday,2,Très grand,2833144.0,4306.38,5.87
+144,39,Laptop,Electronique,279907.0,1,Bafoussam,2025-05-24,2,Client_39,51,Premium,425.46,492.64,2025,5,May,Saturday,2,Grand,279907.0,425.46,2.15
+145,27,Tablette,Informatique,678744.0,4,Yaoundé,2025-05-25,2,Client_27,20,Premium,1031.69,1194.59,2025,5,May,Sunday,2,Très grand,2714976.0,4126.76,4.56
+146,9,Téléphone,Electronique,720460.0,1,Douala,2025-05-26,1,Client_9,40,Premium,1095.1,1268.01,2025,5,May,Monday,2,Très grand,720460.0,1095.1,3.41
+147,15,Laptop,Accessoire,670220.0,1,Bafoussam,2025-05-27,2,Client_15,50,Standard,1018.73,1179.59,2025,5,May,Tuesday,2,Très grand,670220.0,1018.73,3.63
+148,15,Téléphone,Electronique,240365.0,6,Yaoundé,2025-05-28,5,Client_15,50,Standard,365.35,423.04,2025,5,May,Wednesday,2,Grand,1442190.0,2192.13,4.71
+149,26,Téléphone,Electronique,347786.0,5,Yaoundé,2025-05-29,2,Client_26,57,VIP,528.63,612.1,2025,5,May,Thursday,2,Grand,1738930.0,2643.17,3.61
+150,42,Tablette,Accessoire,55612.0,4,Garoua,2025-05-30,5,Client_42,21,Standard,84.53,97.88,2025,5,May,Friday,2,Moyen,222448.0,338.12,3.41
+151,13,Téléphone,Electronique,205244.0,3,Douala,2025-05-31,1,Client_13,50,Premium,311.97,361.23,2025,5,May,Saturday,2,Grand,615732.0,935.91,2.07
+152,32,Téléphone,Accessoire,9809.0,1,Yaoundé,2025-06-01,3,Client_32,46,Premium,14.91,17.26,2025,6,Jun,Sunday,2,Petit,9809.0,14.91,1.54
+153,39,Tablette,Electronique,168273.0,6,Bafoussam,2025-06-02,3,Client_39,51,Premium,255.77,296.16,2025,6,Jun,Monday,2,Moyen,1009638.0,1534.65,3.63
+154,49,Téléphone,Informatique,713690.0,2,Garoua,2025-06-03,3,Client_49,40,VIP,1084.81,1256.09,2025,6,Jun,Tuesday,2,Très grand,1427380.0,2169.62,4.49
+155,32,Téléphone,Informatique,149528.0,8,Douala,2025-06-04,5,Client_32,46,Premium,227.28,263.17,2025,6,Jun,Wednesday,2,Moyen,1196224.0,1818.26,4.96
+156,4,Téléphone,Electronique,511964.0,5,Bamenda,2025-06-05,2,Client_4,52,Standard,778.19,901.06,2025,6,Jun,Thursday,2,Très grand,2559820.0,3890.93,4.23
+157,30,Laptop,Electronique,454613.0,7,Bafoussam,2025-06-06,4,Client_30,59,Premium,691.01,800.12,2025,6,Jun,Friday,2,Grand,3182291.0,4837.08,5.41
+158,37,Laptop,Electronique,388934.0,2,Yaoundé,2025-06-07,3,Client_37,45,Premium,591.18,684.52,2025,6,Jun,Saturday,2,Grand,777868.0,1182.36,3.27
+159,23,Laptop,Informatique,321076.0,8,Yaoundé,2025-06-08,2,Client_23,21,VIP,488.04,565.09,2025,6,Jun,Sunday,2,Grand,2568608.0,3904.28,4.41
+160,39,Tablette,Electronique,551237.0,2,Bafoussam,2025-06-09,3,Client_39,51,Premium,837.88,970.18,2025,6,Jun,Monday,2,Très grand,1102474.0,1675.76,3.88
+161,45,Imprimante,Informatique,206152.0,4,Yaoundé,2025-06-10,2,Client_45,18,VIP,313.35,362.83,2025,6,Jun,Tuesday,2,Grand,824608.0,1253.4,2.78
+162,15,Téléphone,Accessoire,304888.0,1,Garoua,2025-06-11,1,Client_15,50,Standard,463.43,536.6,2025,6,Jun,Wednesday,2,Grand,304888.0,463.43,1.85
+163,43,Téléphone,Informatique,705903.0,5,Douala,2025-06-12,3,Client_43,60,Standard,1072.97,1242.39,2025,6,Jun,Thursday,2,Très grand,3529515.0,5364.86,5.36
+164,29,Tablette,Informatique,97193.0,9,Garoua,2025-06-13,4,Client_29,25,Standard,147.73,171.06,2025,6,Jun,Friday,2,Moyen,874737.0,1329.6,4.67
+165,36,Téléphone,Accessoire,41187.0,1,Yaoundé,2025-06-14,4,Client_36,48,Standard,62.6,72.49,2025,6,Jun,Saturday,2,Petit,41187.0,62.6,2.06
+166,13,Laptop,Informatique,510950.0,9,Bamenda,2025-06-15,5,Client_13,50,Premium,776.64,899.27,2025,6,Jun,Sunday,2,Très grand,4598550.0,6989.8,6.63
+167,32,Imprimante,Electronique,143311.0,8,Douala,2025-06-16,2,Client_32,46,Premium,217.83,252.23,2025,6,Jun,Monday,2,Moyen,1146488.0,1742.66,3.74
+168,7,Accessoire,Electronique,513153.0,6,Douala,2025-06-17,3,Client_7,37,VIP,779.99,903.15,2025,6,Jun,Tuesday,2,Très grand,3078918.0,4679.96,4.93
+169,22,Téléphone,Informatique,194089.0,7,Bafoussam,2025-06-18,5,Client_22,22,Premium,295.02,341.6,2025,6,Jun,Wednesday,2,Moyen,1358623.0,2065.11,4.83
+170,28,Laptop,Electronique,591165.0,3,Bafoussam,2025-06-19,3,Client_28,38,VIP,898.57,1040.45,2025,6,Jun,Thursday,2,Très grand,1773495.0,2695.71,4.33
+171,2,Accessoire,Informatique,441341.0,1,Bamenda,2025-06-20,2,Client_2,20,Standard,670.84,776.76,2025,6,Jun,Friday,2,Grand,441341.0,670.84,2.76
+172,42,Imprimante,Electronique,317066.0,5,Douala,2025-06-21,4,Client_42,21,Standard,481.94,558.04,2025,6,Jun,Saturday,2,Grand,1585330.0,2409.7,4.29
+173,45,Accessoire,Electronique,388934.0,2,Bamenda,2025-06-22,1,Client_45,18,VIP,591.18,684.52,2025,6,Jun,Sunday,2,Grand,777868.0,1182.36,2.47
+174,6,Laptop,Informatique,692409.0,5,Bafoussam,2025-06-23,4,Client_6,35,Standard,1052.46,1218.64,2025,6,Jun,Monday,2,Très grand,3462045.0,5262.31,5.71
+175,28,Accessoire,Electronique,566419.0,8,Bafoussam,2025-06-24,5,Client_28,38,VIP,860.96,996.9,2025,6,Jun,Tuesday,2,Très grand,4531352.0,6887.66,6.53
+176,28,Tablette,Informatique,645053.0,9,Douala,2025-06-25,1,Client_28,38,VIP,980.48,1135.29,2025,6,Jun,Wednesday,2,Très grand,5805477.0,8824.33,5.53
+177,44,Accessoire,Electronique,636172.0,2,Garoua,2025-06-26,3,Client_44,23,Premium,966.98,1119.66,2025,6,Jun,Thursday,2,Très grand,1272344.0,1933.96,4.2
+178,44,Téléphone,Electronique,130917.0,3,Yaoundé,2025-06-27,2,Client_44,23,Premium,198.99,230.41,2025,6,Jun,Friday,2,Moyen,392751.0,596.98,2.19
+179,20,Téléphone,Accessoire,304770.0,3,Bafoussam,2025-06-28,1,Client_20,50,Premium,463.25,536.4,2025,6,Jun,Saturday,2,Grand,914310.0,1389.75,2.45
+180,30,Tablette,Accessoire,703168.0,1,Bafoussam,2025-06-29,5,Client_30,59,Premium,1068.82,1237.58,2025,6,Jun,Sunday,2,Très grand,703168.0,1068.82,4.95
+181,11,Laptop,Informatique,486680.0,8,Garoua,2025-06-30,2,Client_11,50,Standard,739.75,856.56,2025,6,Jun,Monday,2,Grand,3893440.0,5918.03,5.03
+182,28,Téléphone,Accessoire,286342.0,6,Garoua,2025-07-01,4,Client_28,38,VIP,435.24,503.96,2025,7,Jul,Tuesday,3,Grand,1718052.0,2611.44,4.48
+183,25,Imprimante,Informatique,544542.0,8,Bamenda,2025-07-02,2,Client_25,38,Premium,827.7,958.39,2025,7,Jul,Wednesday,3,Très grand,4356336.0,6621.63,5.25
+184,39,Téléphone,Accessoire,49238.0,9,Bamenda,2025-07-03,3,Client_39,51,Premium,74.84,86.66,2025,7,Jul,Thursday,3,Petit,443142.0,673.58,4.09
+185,33,Téléphone,Electronique,6252.0,5,Yaoundé,2025-07-04,2,Client_33,56,Premium,9.5,11.0,2025,7,Jul,Friday,3,Petit,31260.0,47.52,2.32
+186,1,Laptop,Informatique,490450.0,3,Yaoundé,2025-07-05,2,Client_1,63,Standard,745.48,863.19,2025,7,Jul,Saturday,3,Grand,1471350.0,2236.45,3.55
+187,27,Accessoire,Informatique,320826.0,5,Douala,2025-07-06,3,Client_27,20,Premium,487.66,564.65,2025,7,Jul,Sunday,3,Grand,1604130.0,2438.28,3.91
+188,13,Téléphone,Electronique,326638.0,5,Bamenda,2025-07-07,5,Client_13,50,Premium,496.49,574.88,2025,7,Jul,Monday,3,Grand,1633190.0,2482.45,4.73
+189,41,Tablette,Informatique,610605.0,5,Bafoussam,2025-07-08,5,Client_41,58,VIP,928.12,1074.66,2025,7,Jul,Tuesday,3,Très grand,3053025.0,4640.6,5.8
+190,3,Accessoire,Informatique,332359.0,3,Bamenda,2025-07-09,2,Client_3,46,Premium,505.19,584.95,2025,7,Jul,Wednesday,3,Grand,997077.0,1515.56,2.95
+191,39,Imprimante,Accessoire,607875.0,4,Bafoussam,2025-07-10,3,Client_39,51,Premium,923.97,1069.86,2025,7,Jul,Thursday,3,Très grand,2431500.0,3695.88,4.69
+192,6,Laptop,Informatique,11949.0,9,Garoua,2025-07-11,3,Client_6,35,Standard,18.16,21.03,2025,7,Jul,Friday,3,Petit,107541.0,163.46,3.95
+193,8,Imprimante,Electronique,768185.0,9,Bamenda,2025-07-12,4,Client_8,60,VIP,1167.64,1352.01,2025,7,Jul,Saturday,3,Très grand,6913665.0,10508.77,7.19
+194,27,Accessoire,Accessoire,322537.0,2,Garoua,2025-07-13,5,Client_27,20,Premium,490.26,567.67,2025,7,Jul,Sunday,3,Grand,645074.0,980.51,3.82
+195,9,Accessoire,Accessoire,733913.0,8,Yaoundé,2025-07-14,1,Client_9,40,Premium,1115.55,1291.69,2025,7,Jul,Monday,3,Très grand,5871304.0,8924.38,5.57
+196,37,Accessoire,Electronique,667301.0,8,Yaoundé,2025-07-15,5,Client_37,45,Premium,1014.3,1174.45,2025,7,Jul,Tuesday,3,Très grand,5338408.0,8114.38,6.91
+197,33,Imprimante,Electronique,555222.0,7,Douala,2025-07-16,5,Client_33,56,Premium,843.94,977.19,2025,7,Jul,Wednesday,3,Très grand,3886554.0,5907.56,6.19
+198,42,Accessoire,Accessoire,785722.0,8,Bamenda,2025-07-17,4,Client_42,21,Standard,1194.3,1382.87,2025,7,Jul,Thursday,3,Très grand,6285776.0,9554.38,6.96
+199,44,Imprimante,Informatique,460102.0,3,Garoua,2025-07-18,1,Client_44,23,Premium,699.36,809.78,2025,7,Jul,Friday,3,Grand,1380306.0,2098.07,3.03
+200,24,Accessoire,Accessoire,342889.0,6,Bafoussam,2025-07-19,4,Client_24,20,Premium,521.19,603.48,2025,7,Jul,Saturday,3,Grand,2057334.0,3127.15,4.69

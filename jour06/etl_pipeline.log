@@ -1,0 +1,23 @@
+2026-04-03 07:14:05,094 - INFO - [START] Démarrage du pipeline ETL
+2026-04-03 07:21:40,451 - INFO - [EXTRACT] Génération des données de ventes...
+2026-04-03 07:21:40,710 - INFO - [OK] Ventes extraites — 200 lignes
+2026-04-03 07:43:08,192 - INFO - [EXTRACT] Génération des données clients...
+2026-04-03 07:43:08,213 - INFO - [OK] Clients extraits — 50 clients
+2026-04-03 07:43:08,216 - INFO - [EXTRACT] Récupération des taux de change...
+2026-04-03 07:43:09,601 - INFO - [OK] Taux récupérés — 1 XAF = 0.001520 EUR
+2026-04-03 08:04:57,870 - INFO - [TRANSFORM] Début du nettoyage...
+2026-04-03 08:04:57,894 - INFO - [OK] Valeurs manquantes : 15 → 0
+2026-04-03 08:04:57,918 - INFO - [OK] Doublons supprimés : 0
+2026-04-03 08:04:57,940 - INFO - [OK] Types de colonnes corrigés
+2026-04-03 08:04:57,980 - INFO - [OK] Jointure avec clients — 200 lignes
+2026-04-03 08:16:28,114 - INFO - [TRANSFORM] Début de l'enrichissement...
+2026-04-03 08:16:28,125 - INFO - [OK] Conversion devises effectuée
+2026-04-03 08:16:28,144 - INFO - [OK] Features temporelles extraites
+2026-04-03 08:16:28,150 - INFO - [OK] Catégorisation des montants effectuée
+2026-04-03 08:16:28,155 - INFO - [OK] Chiffre d'affaires calculé
+2026-04-03 08:16:28,164 - INFO - [OK] Score de performance calculé
+2026-04-03 08:35:28,001 - INFO - [LOAD] Début de la sauvegarde...
+2026-04-03 08:35:28,019 - INFO - [OK] Dataset complet sauvegardé en CSV
+2026-04-03 08:35:29,600 - INFO - [OK] Rapport Excel sauvegardé avec 4 feuilles
+2026-04-03 08:35:29,600 - INFO - [OK] Résumé JSON sauvegardé
+2026-04-03 08:35:29,616 - INFO - [END] Pipeline ETL terminé avec succès !
